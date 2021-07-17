@@ -1,0 +1,29 @@
+.header{
+    background-color: rgb(184, 221, 255);
+    width: 100%;
+    padding:3px;
+    margin-top: 0px;
+    box-shadow: 10px 10px 10px rgb(58, 57, 57);
+}
+canvas{
+    border: 5px solid black;
+    background-color: rgb(184, 221, 255);
+    border-radius: 20px;
+}
+video{
+    margin-left: 100px;
+}
+.footer{
+    box-shadow: 0px 0px 15px black;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 0px;
+    text-align: center;
+    background-color: rgb(184, 221, 255);
+}
+body{
+    background-image: url("https://img.freepik.com/free-vector/hand-drawn-background-set-cute-speech-bubble-eith-text-doodle-style_111016-657.jpg?size=626&ext=jpg");
+    font-family: 'Lobster Two', cursive;
+}
